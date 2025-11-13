@@ -3,6 +3,12 @@
 A simple **To-Do List** application built using **React**, **Vite**, and **JavaScript (SWC)**.  
 This is my first React project — created to practice component-based UI development, React Hooks (`useState`, `useRef`, `useEffect`), and state management.
 
+
+## 🖼️ Preview
+
+Here’s what the To-Do List app looks like 👇
+
+![Todo App Screenshot](./src/Components/Assets/todo.png)
 ---
 
 ## 🚀 Project Setup
