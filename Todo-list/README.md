@@ -70,15 +70,5 @@ todo-list/
 
 
 
-🛠️ Built With
-
-* React
-
-* Vite
-
-* JavaScript + SWC
-
-
-
 
 “The journey of a thousand commits begins with a single npm run dev.” 🚀
