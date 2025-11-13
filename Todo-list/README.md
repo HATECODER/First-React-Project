@@ -57,26 +57,26 @@ todo-list/
 
 🧠 Key Concepts Practiced
 
--React functional components
+- React functional components
 
--useState, useRef, useEffect hooks
+- useState, useRef, useEffect hooks
 
--Passing props between components
+- Passing props between components
 
--Component styling with external CSS
+- Component styling with external CSS
 
--Handling user input and DOM references
+- Handling user input and DOM references
 
 
 
 
 🛠️ Built With
 
-*React
+* React
 
-*Vite
+* Vite
 
-*JavaScript + SWC
+* JavaScript + SWC
 
 
 
